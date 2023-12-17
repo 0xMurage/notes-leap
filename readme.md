@@ -26,7 +26,7 @@ Zoho Notebook stores the notebooks in:
     * `NOTEBOOK_ID`: ID of the Joplin notebook to import notes into (optional)
     * `ZOHO_NOTECARDS_FOLDER_PATH`: Directory containing your Zoho notes relative to the script.
 
-You can Joplin base url and token from the Joplin desktop application, on the Web Clipper Options screen.
+You can get the Joplin base url and token from the Joplin desktop application, on the Web Clipper Options screen.
 
 **Usage:**
 
